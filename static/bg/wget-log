@@ -1,11 +1,0 @@
---2021-07-24 07:34:58--  https://images.unsplash.com/photo-1510707645055-2f0d3de3d934?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8
-Resolving images.unsplash.com (images.unsplash.com)... 2a04:4e42:48::720, 199.232.46.208
-Connecting to images.unsplash.com (images.unsplash.com)|2a04:4e42:48::720|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 5910217 (5.6M) [image/jpeg]
-Saving to: 'photo-1510707645055-2f0d3de3d934?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8'
-
-                  photo-15107076450   0%[                                                                    ]       0  --.-KB/s               photo-1510707645055-2f0d3de3d934?ix 100%[===================================================================>]   5.64M  --.-KB/s    in 0.04s   
-
-2021-07-24 07:34:59 (152 MB/s) - 'photo-1510707645055-2f0d3de3d934?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8' saved [5910217/5910217]
-
