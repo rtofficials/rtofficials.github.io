@@ -1,5 +1,5 @@
 #+TITLE: ~ Welcome to RT's blog ~
-#+AUTHOR: R_tesigns
+#+AUTHOR: Aarti Anand
 #+EMAIL: rtofficials@gmail.com
 #+OPTIONS: toc:nil num:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/style.css"/>

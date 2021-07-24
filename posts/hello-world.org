@@ -1,5 +1,5 @@
 #+TITLE: Hello world
-#+AUTHOR: R_tesigns
+#+AUTHOR: Aarti Anand
 #+EMAIL: rtofficials@gmail.com
 #+OPTIONS: num:nil
 #+SETUPFILE: https://rtofficials.github.io/static/theme.setup
