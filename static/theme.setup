@@ -1,4 +1,4 @@
 # -*- mode: org; -*-
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
-#+INFOJS_OPT: toc:t tdepth:1 ltoc:t path:org-info.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://blog.bugswriter.com/static/style.css"/>
+#+INFOJS_OPT: toc:t tdepth:1 ltoc:t path:https://blog.bugswriter.com/static/org-info.js
