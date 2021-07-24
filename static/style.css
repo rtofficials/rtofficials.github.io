@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=PT+Serif&display=swap');
 
 html {
-    background: url(bg/03.jpg) no-repeat center center fixed; 
+    background: url(bg/22.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -12,14 +12,23 @@ html {
 }
 
 body {
+    border-radius : 0.7em;
+    padding : 1em;
     margin: 3em auto;
     max-width: 50em;
+    border : 1px dashed white;
     line-height: 1.5em;
+    color : #008000; 
 }
 a {
-    color: #008000;
+    color: #e3b600;
     text-decoration: none;
     padding: 1px;
+}
+
+a:hover{
+  font-weight : 500;
+  text-decoration : underline;
 }
 
 .title {
