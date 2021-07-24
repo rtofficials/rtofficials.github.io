@@ -6,3 +6,9 @@
 #+BEGIN_CENTER
 [ [[https://bugswriter.com][home]] / [[https://bugswriter.com/about][about]] / [[https://bugswriter.com/contact][contact]] ]
 #+END_CENTER
+
+
+I am a web dev. love to write blogs.
+* Education
+  B.tech pass
+

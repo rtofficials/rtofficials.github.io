@@ -8,15 +8,7 @@
 #+END_CENTER
 
 
-* List of blogs
+Hi, Welcome to Aarti's Blog.
 
-
-* Technology notes
-
-* My quotes diary
-  These are the quotes I use to write on your quote.
-  - [./posts
-
-
-* Daily Updates
-  - [[./posts/hello-world.html][Zest]]: My experience in college zest.
+* List of Blogs
+  - [[./posts/hello-world.html][Hello World]]
