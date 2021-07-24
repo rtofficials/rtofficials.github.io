@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://blog.bugswriter.com/static/style.css"/>
 #+BEGIN_CENTER
-[ [[https://bugswriter.com][home]] / [[https://bugswriter.com/about][about]] / [[https://bugswriter.com/contact][contact]] ]
+[ [[index.html][home]] / [[about.html][about]] / [[contact.html][contact]] ]
 #+END_CENTER
 
 
