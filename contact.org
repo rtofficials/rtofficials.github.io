@@ -7,16 +7,3 @@
 [ [[https://bugswriter.com][home]] / [[https://bugswriter.com/about][about]] / [[https://bugswriter.com/contact][contact]] ]
 #+END_CENTER
 
-
-* List of blogs
-
-
-* Technology notes
-
-* My quotes diary
-  These are the quotes I use to write on your quote.
-  - [./posts
-
-
-* Daily Updates
-  - [[./posts/hello-world.html][Zest]]: My experience in college zest.
