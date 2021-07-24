@@ -1,14 +1,15 @@
 #+TITLE: Hello world
 #+AUTHOR: R_tesigns
 #+EMAIL: rtofficials@gmail.com
-#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='https://blog.bugswriter.com/static/style.css'/>
+#+OPTIONS: num:nil
+#+SETUPFILE: https://blog.bugswriter.com/static/theme.setup
+
 #+BEGIN_CENTER
 [ [[https://rtofficials.github.io][home]] / [[https://rtofficials.github.io/about.html][about]] / [[https://rtofficials.github.io.com/contact.html][contact]] ]
 #+END_CENTER
 
 * Day 1
   Hi, I am not eating today.
-
   *My thoughts*
 
   Another one
