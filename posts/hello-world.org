@@ -2,7 +2,7 @@
 #+AUTHOR: R_tesigns
 #+EMAIL: rtofficials@gmail.com
 #+OPTIONS: num:nil
-#+SETUPFILE: https://blog.bugswriter.com/static/theme.setup
+#+SETUPFILE: static/theme.setup
 
 #+BEGIN_CENTER
 [ [[https://rtofficials.github.io][home]] / [[https://rtofficials.github.io/about.html][about]] / [[https://rtofficials.github.io.com/contact.html][contact]] ]
