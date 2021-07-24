@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=PT+Serif&display=swap');
 
 html {
-    background : url(bg/03.jpg);
+    background: url(bg/03.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -12,15 +12,12 @@ html {
 }
 
 body {
-    border: 2px dashed #828282;
-    box-shadow: -45px 45px #141413;
-    margin: 
-    background: rgba(243, 255, 240, 0.6);
-    padding: 1em;
+    margin: 3em auto;
+    max-width: 50em;
+    line-height: 1.5em;
 }
 a {
-    color: #395FCD;
-    color: #006635;
+    color: #008000;
     text-decoration: none;
     padding: 1px;
 }
@@ -148,4 +145,22 @@ div#postamble {
 div#postamble p {
     padding: 0;
     margin: 0;
+}
+@media only screen and (max-width: 600px) {
+  html {
+    font-size: 70%;
+  }
+  body{
+    margin: 1.3em;
+    line-height: 1.2em;
+  }
+  img {
+    max-width: 300px; 
+  }
+  .org-info-js_info-navigation{
+    font-size: 80%; 
+  }
+  .figure p{
+    font-size: 70%; 
+  }
 }
